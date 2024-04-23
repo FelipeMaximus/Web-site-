@@ -8,7 +8,7 @@ Este projeto foi criado visando FINS EDUCATIVOS.
 
   - [x] HTML 
   - [x] CSS
-  - [x] RESPONSIVE
+  - [x] JAVASCRIPT
 
 ## Deploy on Vercel
 
