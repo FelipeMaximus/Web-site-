@@ -13,9 +13,3 @@ Este projeto foi criado visando FINS EDUCATIVOS.
 ## Deploy on Vercel
 
 [Click aqui](https://web-site-silk-kappa.vercel.app/) para ver a live preview deste projeto.
-
-## Aponte a sua camera aqui
-
-<div align="center" >
-  <img src="https://github.com/FelipeMaximus/Web-site-/assets/53831498/696ed61e-8b20-46cb-a9db-dd11b3ff9e4e>
-</div> para ver a live preview deste projeto.
