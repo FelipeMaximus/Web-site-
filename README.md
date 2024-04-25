@@ -16,4 +16,6 @@ Este projeto foi criado visando FINS EDUCATIVOS.
 
 ## Aponte a sua camera aqui
 
-<h1 align="center"><img src="(https://github.com/FelipeMaximus/Web-site-/assets/53831498/696ed61e-8b20-46cb-a9db-dd11b3ff9e4e)"></h1> para ver a live preview deste projeto.
+<div align="center" >
+  <img src="https://github.com/FelipeMaximus/Web-site-/issues/1#issue-2264275881"height="400">
+</div> para ver a live preview deste projeto.
